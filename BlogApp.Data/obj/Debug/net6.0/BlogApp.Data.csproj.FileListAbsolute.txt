@@ -1,0 +1,17 @@
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/bin/Debug/net6.0/BlogApp.Data.deps.json
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/bin/Debug/net6.0/BlogApp.Data.runtimeconfig.json
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/bin/Debug/net6.0/BlogApp.Data.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/bin/Debug/net6.0/BlogApp.Data.pdb
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/bin/Debug/net6.0/BlogApp.Entity.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/bin/Debug/net6.0/BlogApp.Entity.pdb
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/BlogApp.Data.csproj.AssemblyReference.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/BlogApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/BlogApp.Data.AssemblyInfoInputs.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/BlogApp.Data.AssemblyInfo.cs
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/BlogApp.Data.csproj.CoreCompileInputs.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/BlogApp.Data.csproj.CopyComplete
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/BlogApp.Data.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/refint/BlogApp.Data.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/BlogApp.Data.pdb
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/BlogApp.Data.genruntimeconfig.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Data/obj/Debug/net6.0/ref/BlogApp.Data.dll

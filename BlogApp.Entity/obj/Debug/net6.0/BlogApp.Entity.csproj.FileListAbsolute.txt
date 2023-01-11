@@ -1,0 +1,12 @@
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/bin/Debug/net6.0/BlogApp.Entity.deps.json
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/bin/Debug/net6.0/BlogApp.Entity.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/bin/Debug/net6.0/BlogApp.Entity.pdb
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/obj/Debug/net6.0/BlogApp.Entity.csproj.AssemblyReference.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/obj/Debug/net6.0/BlogApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/obj/Debug/net6.0/BlogApp.Entity.AssemblyInfoInputs.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/obj/Debug/net6.0/BlogApp.Entity.AssemblyInfo.cs
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/obj/Debug/net6.0/BlogApp.Entity.csproj.CoreCompileInputs.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/obj/Debug/net6.0/BlogApp.Entity.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/obj/Debug/net6.0/refint/BlogApp.Entity.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/obj/Debug/net6.0/BlogApp.Entity.pdb
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Entity/obj/Debug/net6.0/ref/BlogApp.Entity.dll

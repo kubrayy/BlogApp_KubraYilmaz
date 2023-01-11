@@ -1,0 +1,67 @@
+﻿@using BlogApp.Core
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BlogApp.WebUI</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BlogAPP.WebUI.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <header>
+        <partial name="_NavBar" />
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @if (TempData["Message"] != null)
+            {
+                AlertMessage message = JsonConvert.DeserializeObject<AlertMessage>(TempData["Message"] as String);
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="alert alert-@message.AlertType alert-dismissible fade show" role="alert">
+                            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                            <div>@message.Title</div>
+                            <div>@message.Message</div>
+                        </div>
+                    </div>
+                </div>
+            }
+            @RenderBody()
+
+
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container mt-2">
+            <div class="d-flex justify-content-start">
+                &copy; 2023 - BlogApp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+            <div class="d-flex justify-content-end">
+                <a class="btn btn-primary" style="background-color: #3b5998;" href="#!" role="button">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+                <a class="btn btn-primary" style="background-color: #55acee;" href="#!" role="button">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <a class="btn btn-primary" style="background-color: #ac2bac;" href="#!" role="button">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+    @RenderSection("Script", false)
+
+</body>
+
+</html>

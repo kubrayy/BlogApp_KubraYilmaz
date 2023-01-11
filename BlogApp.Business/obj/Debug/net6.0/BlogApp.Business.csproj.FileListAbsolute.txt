@@ -1,0 +1,17 @@
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/bin/Debug/net6.0/BlogApp.Business.deps.json
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/bin/Debug/net6.0/BlogApp.Business.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/bin/Debug/net6.0/BlogApp.Business.pdb
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/bin/Debug/net6.0/BlogApp.Data.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/bin/Debug/net6.0/BlogApp.Entity.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/bin/Debug/net6.0/BlogApp.Data.pdb
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/bin/Debug/net6.0/BlogApp.Entity.pdb
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/BlogApp.Business.csproj.AssemblyReference.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/BlogApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/BlogApp.Business.AssemblyInfoInputs.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/BlogApp.Business.AssemblyInfo.cs
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/BlogApp.Business.csproj.CoreCompileInputs.cache
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/BlogApp.Business.csproj.CopyComplete
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/BlogApp.Business.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/refint/BlogApp.Business.dll
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/BlogApp.Business.pdb
+/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Business/obj/Debug/net6.0/ref/BlogApp.Business.dll

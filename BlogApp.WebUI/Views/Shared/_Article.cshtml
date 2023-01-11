@@ -1,0 +1,18 @@
+﻿@model Article
+
+<div class="col-4">
+    <div class="card mb-2">
+        <div class="card-img text-center p-2">
+            <img src="~/images/@Model.ImageUrl" alt="" width=270px, height="200px" style="object-fit: cover">
+        </div>
+        <div class=card-body>
+            <h5 class="card-title text-primary text-center">@Model.Name</h5>
+            <div class="text-muted ps-2 text-center">@Model.Content</div>
+        </div>
+        <div class="card-footer bg-light d-flex justify-content-around">
+            <a class="btn btn-sm btn-primary" asp-controller="BlogApp" asp-action="Details"
+               asp-route-url=@Model.Url>Details</a>
+            <a class="btn btn-sm btn-success" href="#">@Model.AuthorName</a>
+        </div>
+    </div>
+</div>

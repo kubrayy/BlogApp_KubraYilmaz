@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUx+KOGn+IdMsLt5F9lQABK9kvp9W+OPoYKRHkpgcfdcyKpRnw9nD31i+Ce8k4k8Ip9xzYVO6JEO5pg4W89BNA==",
+  "success": true,
+  "projectFilePath": "/Users/kubrayilmaz/Documents/Projects/BlogApp_KubraYilmaz/BlogApp.Core/BlogApp.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/kubrayilmaz/.nuget/packages/microsoft.aspnetcore.http.features/5.0.17/microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "/Users/kubrayilmaz/.nuget/packages/microsoft.extensions.primitives/5.0.1/microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "/Users/kubrayilmaz/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/kubrayilmaz/.nuget/packages/system.io.pipelines/5.0.2/system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
